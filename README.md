@@ -80,22 +80,25 @@ project/
 ├── database.py           # Database connection & queries
 │
 ├── templates/
-│   ├── HomePage.html
-│   ├── Cars.html
 │   ├── CarDetail.html
+│   ├── Cars.html
+│   ├── HomePage.html
 │   ├── Login.html
 │   ├── Register.html
 │   ├── Rental_History.html
 │   ├── Rent_Approval.html
-│   └── (other HTML files)
 │
 ├── static/
-│   ├── css files
+│   ├── cardetail.css
+│   ├── cars.css
+│   ├── Home_Page.css
+│   ├── Login.css
+│   ├── Register.css
+│   ├── Rent_Approval.css
 │   ├── Images/
 │   │   ├── car1.jpeg
 │   │   ├── car2.jpeg
 │   │   └── ...
-│   └── other assets
 │
 └── README.md
 ```
